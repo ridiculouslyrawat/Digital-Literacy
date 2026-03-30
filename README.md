@@ -18,4 +18,4 @@ This repository contains my portfolio for the Digital Literacy (CSE0001) course.
 * **Task 5: Cybercrime:** A case study of phishing actionable prevention checklist.
 
 ## Links
-* [[Link to Google Form Quiz](https://docs.google.com/forms/d/e/1FAIpQLScctq3sor3dWgbmWpEdsaPvPpkS-n55wLhlmA-_51iHU6IbMw/viewform?usp=dialog)]
+* [[Link to Google Form Quiz](https://docs.google.com/forms/d/e/1FAIpQLSco7eoJxPWlAHyytYIwupHp_LuPY3Dnn2DUeofYSc6ZZe4Agw/viewform]
