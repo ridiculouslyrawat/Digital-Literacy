@@ -1,2 +1,2 @@
 # Digital-Literacy
-The Repository for submission Digital Literacy Project file
+The Repository for submission of Digital Literacy Project file
