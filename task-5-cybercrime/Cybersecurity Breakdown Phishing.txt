@@ -1,0 +1,19 @@
+# Cybersecurity Breakdown: Phishing
+
+Phishing remains one of the most pervasive forms of cybercrime because it exploits human psychology rather than just technical vulnerabilities. At its core, phishing is a form of social engineering where an attacker masquerades as a trusted entity—such as a bank, a popular streaming service, or even a college professor—to trick victims into revealing sensitive information like login credentials, credit card numbers, or Social Security digits.
+
+---
+
+### How Phishing Works
+The process typically follows a predictable lifecycle:
+
+1.  **The Bait:** You receive an urgent email or SMS (smishing) claiming there is a or a "suspicious login" on your account or a "missed delivery" that requires immediate action.
+2.  **The Hook:** The message contains a link that looks legitimate but directs you to a spoofed website designed to mirror a real login page.
+3.  **The Catch:** Once you enter your username and password, the attacker captures the data in real-time. They may then redirect you to the actual website to avoid suspicion, while they proceed to drain your account or sell your credentials on the dark web.
+
+---
+
+### Why It's Dangerous
+What makes phishing particularly lethal is its ability to bypass technical defenses like firewalls and antivirus software; after all, if a user *willingly* provides their password, the system assumes the login is legitimate. 
+
+The increasing sophistication of these attacks, including the use of AI to create hyper-personalized **"spear phishing"** emails, has made them nearly indistinguishable from genuine communications, making constant vigilance the only reliable defense.
